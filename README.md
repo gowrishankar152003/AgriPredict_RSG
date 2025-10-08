@@ -1,5 +1,5 @@
 
-# 📄 Software Requirements Specification: Web-Based Crop Yield Prediction System 🌾
+# 📄Web-Based Crop Yield Prediction System 🌾
 
 ## 1️⃣ Introduction 🌿
 
